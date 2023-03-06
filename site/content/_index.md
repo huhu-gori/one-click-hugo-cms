@@ -1,7 +1,7 @@
 ---
-title: Great joinery with a conscience
-subtitle: Support sustainable woodorking while enjoying a luxury resort
-image: img/about-reinvest-profits.jpg
+title: Informaticien de merde tu t'es moqué de moi
+subtitle: J'ai réussi ton truc en fumnt dans mon grenier petit PD.
+image: https://pescanapraia.com/wp-content/uploads/2015/06/PAMPO-GALHUDO-1860x1060_c.jpg
 blurb:
   heading: Why Kontra?
   text: Kaldi is the coffee store for everyone who believes that great coffee
